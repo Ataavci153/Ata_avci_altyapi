@@ -1,9 +1,8 @@
 {
-  "name": "[ATA-BOT]",
-  "version": "0.0.1"  ,
-  "main": "src/index.js",
-  "license": "MIT",
-  "author": Yok.
+  "name": "[ATA-BOT]" ,
+  "version": "0.0.1" ,
+  "main": "src/index.js"  ,
+  "author": {
     "email": "atadorukdastan92@gmail.com
     "name": "Ata Doruk"
   },
