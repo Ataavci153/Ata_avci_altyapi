@@ -1,1 +1,0 @@
-# Ata_avci_altyapi
